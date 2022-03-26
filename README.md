@@ -10,6 +10,7 @@ Distribution elsewhere is **not permitted**.
 ### Various Submissions
 - Heinermann
 - Sully
+- Artyfacts
 
 ### DJS Gloomhaven Group Server
 - Dan-Kiwi
