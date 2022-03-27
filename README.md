@@ -13,12 +13,17 @@ Distribution elsewhere is **not permitted**.
 - Artyfacts
 
 ### DJS Gloomhaven Group Server
+- Heinermann
 - Dan-Kiwi
 - Josheva
 - Talarian
 - Zertull
 
 ### Vancouver Gaymers Server
+- Heinermann
+- Sully
 - Eugenius
 - Kramaca
 - Myrddin
+- SirJohnatan
+- Undersiege
